@@ -1,2 +1,4 @@
-# Compiled class file
-*.class
+# Ignore everything in this directory (prevent committing generated files)
+*
+# Except this file
+!.gitignore
