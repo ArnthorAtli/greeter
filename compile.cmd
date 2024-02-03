@@ -1,1 +1,1 @@
-javac Main.java
+javac -d bin .\src\*.java .\src\frontend\*.java .\src\backend\*.java

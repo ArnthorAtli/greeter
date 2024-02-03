@@ -1,3 +1,5 @@
+package src.backend;
+
 public class Greeter {
 
     private Language language = Language.ENGLISH;

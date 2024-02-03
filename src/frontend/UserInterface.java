@@ -1,3 +1,5 @@
+package src.frontend;
+
 public class UserInterface {
     public void show(String greeting) {
         System.out.println("*******************");
