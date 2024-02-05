@@ -1,5 +1,6 @@
-import src.backend.*;
-import src.frontend.*;
+import src.is.hi.aaa27.hbv202g.ass3.backend.*;
+import src.is.hi.aaa27.hbv202g.ass3.frontend.*;
+
 public class Main {
 
     public static void main(String[] args) {
