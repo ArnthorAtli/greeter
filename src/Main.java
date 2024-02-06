@@ -1,5 +1,6 @@
-import src.is.hi.aaa27.hbv202g.ass3.backend.*;
-import src.is.hi.aaa27.hbv202g.ass3.frontend.*;
+
+import is.hi.aaa27.hbv202g.ass3.backend.*;
+import is.hi.aaa27.hbv202g.ass3.frontend.*;
 
 public class Main {
 
